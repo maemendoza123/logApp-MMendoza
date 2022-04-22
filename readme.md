@@ -46,12 +46,13 @@
 
 - Mendoza Github Account LogApp Repository: https://github.com/maemendoza123/logApp-MMendoza
 
-- ![github](mdimages/github.png)
+ ![github](mdimages/github.png)
+ 
 ---
 ### 3. Open the WampServer on the browser. If you will edit the database, you choose the phpMyAdmin or if you want to see the result of the code, you open the localhost. Then paste the URL or location of the file.
 ---
 ## :hourglass: Log Application
----
+
  #### :clipboard: Registration Form
  
  ##### It shows the needed information about the person who will register on the form.
