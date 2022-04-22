@@ -29,7 +29,8 @@
 ---
 ### :triangular_flag_on_post: localhost 
   
-- ![localhost](mdimages/localhost.png)
+ ![localhost](mdimages/localhost.png)
+ 
 ---
 ### :triangular_flag_on_post: phpMyAdmin
  - Log in your account in phpMyAdmin.
@@ -38,7 +39,8 @@
  - Edit
  - Save
 
- - ![phpmyadmin](mdimages/phpmyadmin.png)
+ ![phpmyadmin](mdimages/phpmyadmin.png)
+
 ---
 ### 2. Clone your repository link/file from Github to your local path. Make sure it will save in your preferred location like Desktop or ***www*** folder of Wamp.  
 
@@ -72,7 +74,7 @@
 
 ---
 ## :sparkler: Authors
----  
+ 
 :mortar_board: Mae Kristine V. Mendoza  
 ![mendoza](mdimages/mendoza.jpg)
 
